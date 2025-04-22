@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fff8f0;
+  padding: 40px;
+}
+
+h1 {
+  color: #ff6f61;
+}
+
+select, button {
+  padding: 10px;
+  margin: 10px;
+}
+
+#pizzaResult {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #333;
+}
